@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+}
+
+body { 
+	margin: 0;
+}
+.homedesign{
+	margin-top:1%;
+	margin-left: 4%;
+	margin-right: 4%;
+	margin-bottom: 6%;
+	padding: 1%;
+}
+.boxtitle{ 
+	background-color: #FAFAFA;
+	border: 2px solid #E0E0E0;
+	border-radius: 10px;
+	padding: 4px;
+	margin-right: 50px;
+}
+.boxtitle h2{
+	margin-left: 20px;
+}
+.btn{
+	margin-left: 690px;
+	background: transparent;
+	color: blue;
+	border: none;
+	font-size: 18px;
+}

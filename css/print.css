@@ -1,0 +1,14 @@
+.header, .footer, center {
+  display: none;
+}
+*{
+	font-size: 18px;
+	font-family: Times New Roman;
+}
+.profiledesign{
+	border: none;
+	margin-top: -60px;
+}
+.ml{
+	font-size: 22px;
+}
